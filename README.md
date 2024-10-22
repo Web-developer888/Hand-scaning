@@ -12,3 +12,4 @@ Customizable: Easily change colors, speed, or scanning effects.
 Lightweight: Simple code with minimal dependencies.
 Demo
 Check out the live demo here: Live Demo
+ https://web-developer888.github.io/Hand-scaning/
